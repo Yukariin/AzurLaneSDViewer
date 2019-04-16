@@ -1,0 +1,13 @@
+
+paozhang.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+炮仗
+  rotate: false
+  xy: 2, 2
+  size: 157, 157
+  orig: 157, 157
+  offset: 0, 0
+  index: -1

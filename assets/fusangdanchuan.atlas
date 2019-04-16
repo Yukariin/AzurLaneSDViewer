@@ -1,0 +1,62 @@
+
+fusangdanchuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuandi
+  rotate: false
+  xy: 2, 385
+  size: 559, 229
+  orig: 559, 229
+  offset: 0, 0
+  index: -1
+jiaban
+  rotate: false
+  xy: 2, 252
+  size: 542, 131
+  orig: 542, 131
+  offset: 0, 0
+  index: -1
+jianqiao
+  rotate: false
+  xy: 2, 616
+  size: 559, 329
+  orig: 559, 329
+  offset: 0, 0
+  index: -1
+pao
+  rotate: true
+  xy: 563, 387
+  size: 558, 144
+  orig: 558, 144
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 2, 67
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+zl01
+  rotate: true
+  xy: 709, 444
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1
+zl02
+  rotate: false
+  xy: 2, 133
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1
+zl03
+  rotate: true
+  xy: 828, 444
+  size: 501, 117
+  orig: 501, 117
+  offset: 0, 0
+  index: -1

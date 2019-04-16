@@ -1,0 +1,48 @@
+
+biruiwudaodanchuan1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 254
+  size: 403, 250
+  orig: 403, 250
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 73, 12
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 2, 2
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+zl01
+  rotate: false
+  xy: 2, 158
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1
+zl02
+  rotate: false
+  xy: 2, 62
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1
+zl03
+  rotate: true
+  xy: 407, 103
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1

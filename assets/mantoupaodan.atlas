@@ -1,0 +1,27 @@
+
+mantoupaodan.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mantoupaodan
+  rotate: false
+  xy: 2, 2
+  size: 200, 117
+  orig: 200, 117
+  offset: 0, 0
+  index: -1
+sudu1
+  rotate: false
+  xy: 204, 2
+  size: 200, 117
+  orig: 200, 117
+  offset: 0, 0
+  index: -1
+sudu2
+  rotate: false
+  xy: 406, 2
+  size: 200, 117
+  orig: 200, 117
+  offset: 0, 0
+  index: -1

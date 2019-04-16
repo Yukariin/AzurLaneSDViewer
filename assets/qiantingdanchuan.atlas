@@ -1,0 +1,55 @@
+
+qiantingdanchuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+130
+  rotate: true
+  xy: 187, 66
+  size: 61, 81
+  orig: 61, 81
+  offset: 0, 0
+  index: -1
+150
+  rotate: false
+  xy: 101, 61
+  size: 84, 66
+  orig: 84, 66
+  offset: 0, 0
+  index: -1
+180
+  rotate: false
+  xy: 270, 77
+  size: 91, 50
+  orig: 91, 50
+  offset: 0, 0
+  index: -1
+25
+  rotate: true
+  xy: 363, 79
+  size: 48, 84
+  orig: 48, 84
+  offset: 0, 0
+  index: -1
+90
+  rotate: true
+  xy: 2, 2
+  size: 27, 87
+  orig: 27, 87
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 129
+  size: 502, 376
+  orig: 502, 376
+  offset: 0, 0
+  index: -1
+manjuu
+  rotate: false
+  xy: 2, 31
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1

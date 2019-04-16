@@ -1,0 +1,62 @@
+
+SSRNekoBox2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX
+  rotate: true
+  xy: 215, 98
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+SSRxiangzi2
+  rotate: false
+  xy: 2, 93
+  size: 211, 161
+  orig: 211, 161
+  offset: 0, 0
+  index: -1
+face21
+  rotate: false
+  xy: 2, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+face22
+  rotate: false
+  xy: 2, 14
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+face23
+  rotate: false
+  xy: 195, 83
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+gaizi2
+  rotate: false
+  xy: 2, 26
+  size: 191, 65
+  orig: 191, 65
+  offset: 0, 0
+  index: -1
+guashi1
+  rotate: false
+  xy: 321, 200
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+guashi2
+  rotate: false
+  xy: 215, 166
+  size: 104, 88
+  orig: 104, 88
+  offset: 0, 0
+  index: -1

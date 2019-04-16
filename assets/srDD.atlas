@@ -1,0 +1,55 @@
+
+srDD.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 373, 886
+  size: 399, 126
+  orig: 399, 126
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 403
+  size: 403, 130
+  orig: 403, 130
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 2
+  size: 399, 115
+  orig: 399, 115
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 808
+  size: 369, 204
+  orig: 369, 204
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 373, 847
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+wen
+  rotate: true
+  xy: 134, 471
+  size: 335, 175
+  orig: 335, 175
+  offset: 0, 0
+  index: -1
+wen1
+  rotate: false
+  xy: 774, 992
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1

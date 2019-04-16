@@ -1,0 +1,48 @@
+
+muyuedanchuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 286
+  size: 280, 182
+  orig: 280, 182
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: true
+  xy: 2, 2
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: true
+  xy: 70, 2
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: true
+  xy: 138, 2
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 284, 422
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 206, 33
+  size: 251, 93
+  orig: 251, 93
+  offset: 0, 0
+  index: -1

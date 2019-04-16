@@ -1,0 +1,34 @@
+
+mantouyulei.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mantouyulei
+  rotate: false
+  xy: 2, 2
+  size: 200, 123
+  orig: 200, 123
+  offset: 0, 0
+  index: -1
+paopao1
+  rotate: false
+  xy: 204, 99
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+paopao2
+  rotate: false
+  xy: 204, 71
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+paopao3
+  rotate: false
+  xy: 204, 43
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1

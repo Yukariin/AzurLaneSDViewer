@@ -1,0 +1,20 @@
+
+shengdanlaojiu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+圣诞老啾
+  rotate: false
+  xy: 2, 2
+  size: 250, 192
+  orig: 250, 192
+  offset: 0, 0
+  index: -1
+圣诞老啾2
+  rotate: false
+  xy: 254, 4
+  size: 250, 190
+  orig: 250, 190
+  offset: 0, 0
+  index: -1

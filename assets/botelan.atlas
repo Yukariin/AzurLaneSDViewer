@@ -1,0 +1,300 @@
+
+botelan.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 292, 10
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+bodyW
+  rotate: true
+  xy: 341, 83
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: true
+  xy: 819, 56
+  size: 80, 54
+  orig: 80, 54
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: true
+  xy: 104, 2
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+eye_6_1
+  rotate: true
+  xy: 626, 94
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+eye_6_2
+  rotate: false
+  xy: 352, 67
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+eye_L1
+  rotate: false
+  xy: 486, 78
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+eye_L2
+  rotate: false
+  xy: 688, 13
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+eye_L3
+  rotate: true
+  xy: 136, 2
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+eye_L5
+  rotate: false
+  xy: 166, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+eye_R1
+  rotate: false
+  xy: 958, 92
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+eye_R2
+  rotate: true
+  xy: 670, 2
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+eye_R3
+  rotate: true
+  xy: 64, 2
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+eye_R5
+  rotate: false
+  xy: 645, 2
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 391, 118
+  size: 136, 138
+  orig: 136, 138
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 531, 134
+  size: 115, 120
+  orig: 115, 120
+  offset: 0, 0
+  index: -1
+hair_B4
+  rotate: false
+  xy: 2, 85
+  size: 229, 169
+  orig: 229, 169
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: false
+  xy: 233, 130
+  size: 156, 124
+  orig: 156, 124
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 648, 196
+  size: 58, 137
+  orig: 58, 137
+  offset: 0, 0
+  index: -1
+hair_L2
+  rotate: true
+  xy: 531, 77
+  size: 55, 93
+  orig: 55, 93
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: true
+  xy: 875, 86
+  size: 41, 81
+  orig: 41, 81
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: false
+  xy: 609, 17
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 875, 46
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+jianzhuang_R
+  rotate: true
+  xy: 879, 129
+  size: 55, 105
+  orig: 55, 105
+  offset: 0, 0
+  index: -1
+jianzhuang_R2
+  rotate: false
+  xy: 352, 3
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 989, 197
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+leg_L2
+  rotate: false
+  xy: 645, 30
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 677, 30
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 703, 30
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+lianjie_1
+  rotate: true
+  xy: 2, 2
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+lianjie_2
+  rotate: false
+  xy: 441, 4
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+lianjie_3
+  rotate: false
+  xy: 391, 67
+  size: 93, 49
+  orig: 93, 49
+  offset: 0, 0
+  index: -1
+lianjie_4
+  rotate: true
+  xy: 734, 79
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+maojin
+  rotate: false
+  xy: 648, 141
+  size: 121, 53
+  orig: 121, 53
+  offset: 0, 0
+  index: -1
+meimao_1
+  rotate: false
+  xy: 892, 186
+  size: 95, 68
+  orig: 95, 68
+  offset: 0, 0
+  index: -1
+meimao_3
+  rotate: false
+  xy: 525, 14
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+meimao_4
+  rotate: false
+  xy: 787, 186
+  size: 103, 68
+  orig: 103, 68
+  offset: 0, 0
+  index: -1
+roushi
+  rotate: true
+  xy: 198, 2
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+sleep4
+  rotate: false
+  xy: 648, 89
+  size: 84, 50
+  orig: 84, 50
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 64, 30
+  size: 132, 53
+  orig: 132, 53
+  offset: 0, 0
+  index: -1
+weapon_R
+  rotate: false
+  xy: 233, 82
+  size: 106, 46
+  orig: 106, 46
+  offset: 0, 0
+  index: -1
+weapon_R2
+  rotate: false
+  xy: 771, 138
+  size: 106, 46
+  orig: 106, 46
+  offset: 0, 0
+  index: -1

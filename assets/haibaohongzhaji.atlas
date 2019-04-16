@@ -1,0 +1,20 @@
+
+haibaohongzhaji.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+气球
+  rotate: true
+  xy: 231, 2
+  size: 160, 175
+  orig: 160, 175
+  offset: 0, 0
+  index: -1
+轰炸机海豹
+  rotate: false
+  xy: 2, 41
+  size: 227, 121
+  orig: 227, 121
+  offset: 0, 0
+  index: -1

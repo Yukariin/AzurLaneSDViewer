@@ -1,0 +1,118 @@
+
+SSRNekoBox4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SSRxiangzi41
+  rotate: false
+  xy: 334, 339
+  size: 258, 161
+  orig: 258, 161
+  offset: 0, 0
+  index: -1
+SSRxiangzi42
+  rotate: false
+  xy: 2, 176
+  size: 330, 324
+  orig: 330, 324
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 334, 176
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+cat45
+  rotate: true
+  xy: 2, 2
+  size: 172, 260
+  orig: 172, 260
+  offset: 0, 0
+  index: -1
+gaizi42
+  rotate: false
+  xy: 594, 402
+  size: 172, 98
+  orig: 172, 98
+  offset: 0, 0
+  index: -1
+gazi41
+  rotate: false
+  xy: 334, 234
+  size: 179, 103
+  orig: 179, 103
+  offset: 0, 0
+  index: -1
+guaishi1
+  rotate: true
+  xy: 264, 3
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+guaishi2
+  rotate: true
+  xy: 515, 233
+  size: 104, 88
+  orig: 104, 88
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 768, 406
+  size: 140, 94
+  orig: 140, 94
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 264, 38
+  size: 136, 103
+  orig: 136, 103
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: false
+  xy: 594, 342
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+head_F
+  rotate: true
+  xy: 910, 377
+  size: 123, 104
+  orig: 123, 104
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 421, 198
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+star_L1
+  rotate: false
+  xy: 369, 137
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+star_R1
+  rotate: false
+  xy: 648, 374
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+star_R2
+  rotate: false
+  xy: 321, 18
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+haibaopaodan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+海豹炮弹
+  rotate: false
+  xy: 242, 37
+  size: 248, 129
+  orig: 248, 129
+  offset: 0, 0
+  index: -1
+海豹炮弹2
+  rotate: false
+  xy: 2, 2
+  size: 238, 164
+  orig: 238, 164
+  offset: 0, 0
+  index: -1

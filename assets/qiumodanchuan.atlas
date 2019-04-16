@@ -1,0 +1,62 @@
+
+qiumodanchuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuandi
+  rotate: true
+  xy: 292, 222
+  size: 284, 162
+  orig: 284, 162
+  offset: 0, 0
+  index: -1
+jiaban
+  rotate: true
+  xy: 107, 23
+  size: 242, 99
+  orig: 242, 99
+  offset: 0, 0
+  index: -1
+jianqiao
+  rotate: false
+  xy: 2, 267
+  size: 288, 239
+  orig: 288, 239
+  offset: 0, 0
+  index: -1
+pao
+  rotate: true
+  xy: 2, 22
+  size: 243, 103
+  orig: 243, 103
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 208, 154
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 208, 86
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 208, 18
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 456, 460
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1

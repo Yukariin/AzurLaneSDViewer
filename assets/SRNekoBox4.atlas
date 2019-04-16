@@ -1,0 +1,62 @@
+
+SRNekoBox4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SRxiangzi41
+  rotate: false
+  xy: 2, 2
+  size: 258, 162
+  orig: 258, 162
+  offset: 0, 0
+  index: -1
+SRxiangzi42
+  rotate: false
+  xy: 2, 166
+  size: 330, 324
+  orig: 330, 324
+  offset: 0, 0
+  index: -1
+cat41
+  rotate: false
+  xy: 334, 338
+  size: 142, 152
+  orig: 142, 152
+  offset: 0, 0
+  index: -1
+cat42
+  rotate: true
+  xy: 833, 375
+  size: 115, 134
+  orig: 115, 134
+  offset: 0, 0
+  index: -1
+cat43
+  rotate: false
+  xy: 334, 185
+  size: 127, 151
+  orig: 127, 151
+  offset: 0, 0
+  index: -1
+gaizi42
+  rotate: false
+  xy: 659, 392
+  size: 172, 98
+  orig: 172, 98
+  offset: 0, 0
+  index: -1
+gazi41
+  rotate: false
+  xy: 478, 387
+  size: 179, 103
+  orig: 179, 103
+  offset: 0, 0
+  index: -1
+weiba4
+  rotate: false
+  xy: 262, 59
+  size: 42, 105
+  orig: 42, 105
+  offset: 0, 0
+  index: -1

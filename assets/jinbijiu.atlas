@@ -1,0 +1,20 @@
+
+jinbijiu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbijiu
+  rotate: false
+  xy: 2, 107
+  size: 314, 309
+  orig: 314, 309
+  offset: 0, 0
+  index: -1
+paopao
+  rotate: false
+  xy: 2, 2
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1

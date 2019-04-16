@@ -1,0 +1,20 @@
+
+shengdanfeijiu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+圣诞飞啾
+  rotate: false
+  xy: 147, 3
+  size: 143, 225
+  orig: 143, 225
+  offset: 0, 0
+  index: -1
+圣诞飞啾2
+  rotate: false
+  xy: 2, 2
+  size: 143, 226
+  orig: 143, 226
+  offset: 0, 0
+  index: -1

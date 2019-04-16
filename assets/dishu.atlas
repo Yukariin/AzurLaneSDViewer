@@ -1,0 +1,27 @@
+
+dishu.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dishu
+  rotate: true
+  xy: 199, 2
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+dong
+  rotate: false
+  xy: 107, 10
+  size: 90, 47
+  orig: 90, 47
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 2, 16
+  size: 103, 41
+  orig: 103, 41
+  offset: 0, 0
+  index: -1

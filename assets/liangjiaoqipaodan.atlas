@@ -1,0 +1,13 @@
+
+liangjiaoqipaodan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+量角器
+  rotate: false
+  xy: 2, 2
+  size: 250, 134
+  orig: 250, 134
+  offset: 0, 0
+  index: -1

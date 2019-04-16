@@ -1,0 +1,55 @@
+
+tonghuachengbaoB.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 2, 145
+  size: 817, 783
+  orig: 817, 783
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 2, 2
+  size: 119, 141
+  orig: 119, 141
+  offset: 0, 0
+  index: -1
+front
+  rotate: false
+  xy: 1554, 535
+  size: 245, 393
+  orig: 245, 393
+  offset: 0, 0
+  index: -1
+lianzi_L
+  rotate: false
+  xy: 1554, 420
+  size: 67, 113
+  orig: 67, 113
+  offset: 0, 0
+  index: -1
+lianzi_R
+  rotate: false
+  xy: 821, 192
+  size: 68, 132
+  orig: 68, 132
+  offset: 0, 0
+  index: -1
+manjuu
+  rotate: false
+  xy: 1801, 850
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 821, 326
+  size: 731, 602
+  orig: 731, 602
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+miaogaodanchuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuandi
+  rotate: false
+  xy: 2, 486
+  size: 560, 212
+  orig: 560, 212
+  offset: 0, 0
+  index: -1
+feiji
+  rotate: false
+  xy: 675, 950
+  size: 297, 67
+  orig: 297, 67
+  offset: 0, 0
+  index: -1
+jiaban
+  rotate: false
+  xy: 2, 310
+  size: 533, 174
+  orig: 533, 174
+  offset: 0, 0
+  index: -1
+jianqiao
+  rotate: false
+  xy: 2, 700
+  size: 562, 317
+  orig: 562, 317
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 2, 2
+  size: 549, 88
+  orig: 549, 88
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 675, 875
+  size: 99, 73
+  orig: 99, 73
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: false
+  xy: 2, 201
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: false
+  xy: 2, 92
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: true
+  xy: 566, 456
+  size: 561, 107
+  orig: 561, 107
+  offset: 0, 0
+  index: -1

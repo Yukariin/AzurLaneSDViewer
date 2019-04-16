@@ -1,0 +1,20 @@
+
+bianpaojiu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianpaojiu
+  rotate: false
+  xy: 2, 120
+  size: 376, 319
+  orig: 376, 319
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 2, 2
+  size: 78, 116
+  orig: 78, 116
+  offset: 0, 0
+  index: -1

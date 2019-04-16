@@ -1,0 +1,27 @@
+
+mantoufeiji.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 2, 2
+  size: 200, 187
+  orig: 200, 187
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 204, 2
+  size: 200, 187
+  orig: 200, 187
+  offset: 0, 0
+  index: -1
+mantoufeiji1
+  rotate: false
+  xy: 406, 2
+  size: 200, 187
+  orig: 200, 187
+  offset: 0, 0
+  index: -1

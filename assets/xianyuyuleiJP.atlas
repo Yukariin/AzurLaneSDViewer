@@ -1,0 +1,20 @@
+
+xianyuyuleiJP.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+咸鱼鱼雷JP
+  rotate: false
+  xy: 2, 2
+  size: 249, 153
+  orig: 249, 153
+  offset: 0, 0
+  index: -1
+咸鱼鱼雷JP2
+  rotate: false
+  xy: 253, 14
+  size: 249, 141
+  orig: 249, 141
+  offset: 0, 0
+  index: -1

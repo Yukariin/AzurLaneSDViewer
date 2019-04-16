@@ -1,0 +1,62 @@
+
+yunshuchuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 334
+  size: 206, 146
+  orig: 206, 146
+  offset: 0, 0
+  index: -1
+coin01
+  rotate: true
+  xy: 2, 122
+  size: 210, 57
+  orig: 210, 57
+  offset: 0, 0
+  index: -1
+coin02
+  rotate: false
+  xy: 210, 423
+  size: 210, 57
+  orig: 210, 57
+  offset: 0, 0
+  index: -1
+coin03
+  rotate: true
+  xy: 61, 122
+  size: 210, 57
+  orig: 210, 57
+  offset: 0, 0
+  index: -1
+jinguang1
+  rotate: false
+  xy: 120, 289
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+jinguang2
+  rotate: true
+  xy: 422, 450
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+jinguang3
+  rotate: false
+  xy: 210, 363
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+jinguang4
+  rotate: false
+  xy: 2, 58
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1

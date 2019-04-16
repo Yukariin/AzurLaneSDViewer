@@ -1,0 +1,20 @@
+
+NekoBox1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX
+  rotate: false
+  xy: 2, 2
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+xiangzi1
+  rotate: false
+  xy: 2, 94
+  size: 348, 344
+  orig: 348, 344
+  offset: 0, 0
+  index: -1

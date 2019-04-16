@@ -1,0 +1,13 @@
+
+xiangguzidan.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+香菇子弹
+  rotate: false
+  xy: 2, 2
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1

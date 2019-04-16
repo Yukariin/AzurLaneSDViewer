@@ -1,0 +1,20 @@
+
+xianyuhongzhajiJP.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+咸鱼轰炸机JP
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+咸鱼轰炸机JP2
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

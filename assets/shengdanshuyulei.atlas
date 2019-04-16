@@ -1,0 +1,20 @@
+
+shengdanshuyulei.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+圣诞树鱼雷
+  rotate: false
+  xy: 168, 2
+  size: 164, 244
+  orig: 164, 244
+  offset: 0, 0
+  index: -1
+圣诞武器2
+  rotate: false
+  xy: 2, 2
+  size: 164, 244
+  orig: 164, 244
+  offset: 0, 0
+  index: -1

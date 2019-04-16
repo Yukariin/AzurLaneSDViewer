@@ -1,0 +1,20 @@
+
+zhongguojie.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+中国结1
+  rotate: false
+  xy: 2, 2
+  size: 98, 111
+  orig: 98, 111
+  offset: 0, 0
+  index: -1
+中国结2
+  rotate: false
+  xy: 102, 56
+  size: 125, 57
+  orig: 125, 57
+  offset: 0, 0
+  index: -1

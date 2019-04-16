@@ -1,0 +1,90 @@
+
+changliangdanchuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 307
+  size: 288, 201
+  orig: 288, 201
+  offset: 0, 0
+  index: -1
+chuandi
+  rotate: false
+  xy: 2, 143
+  size: 285, 162
+  orig: 285, 162
+  offset: 0, 0
+  index: -1
+feiji
+  rotate: false
+  xy: 289, 203
+  size: 70, 61
+  orig: 70, 61
+  offset: 0, 0
+  index: -1
+jiaban
+  rotate: true
+  xy: 292, 266
+  size: 242, 100
+  orig: 242, 100
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 2, 75
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 7
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: true
+  xy: 394, 226
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 462, 458
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 289, 155
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: false
+  xy: 462, 418
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+weapon_4
+  rotate: false
+  xy: 462, 378
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+weapon_5
+  rotate: false
+  xy: 462, 338
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1

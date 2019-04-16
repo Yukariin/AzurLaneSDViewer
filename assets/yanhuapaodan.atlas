@@ -1,0 +1,20 @@
+
+yanhuapaodan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+烟花炮弹
+  rotate: false
+  xy: 176, 2
+  size: 172, 236
+  orig: 172, 236
+  offset: 0, 0
+  index: -1
+烟花炮弹2
+  rotate: false
+  xy: 2, 2
+  size: 172, 236
+  orig: 172, 236
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+chuixuedanchuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuandi
+  rotate: false
+  xy: 2, 168
+  size: 282, 142
+  orig: 282, 142
+  offset: 0, 0
+  index: -1
+jiaban
+  rotate: false
+  xy: 2, 11
+  size: 259, 87
+  orig: 259, 87
+  offset: 0, 0
+  index: -1
+jianqiao
+  rotate: false
+  xy: 2, 312
+  size: 282, 194
+  orig: 282, 194
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 286, 132
+  size: 220, 90
+  orig: 220, 90
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: true
+  xy: 286, 224
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 2, 100
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: true
+  xy: 354, 224
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 422, 454
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1

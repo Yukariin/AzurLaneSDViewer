@@ -1,0 +1,20 @@
+
+haibaoyulei.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+海豹鱼雷
+  rotate: false
+  xy: 241, 2
+  size: 237, 118
+  orig: 237, 118
+  offset: 0, 0
+  index: -1
+海豹鱼雷2
+  rotate: false
+  xy: 2, 2
+  size: 237, 118
+  orig: 237, 118
+  offset: 0, 0
+  index: -1

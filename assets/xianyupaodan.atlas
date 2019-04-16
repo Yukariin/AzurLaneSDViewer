@@ -1,0 +1,20 @@
+
+xianyupaodan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+咸鱼武器3
+  rotate: true
+  xy: 2, 2
+  size: 67, 257
+  orig: 67, 257
+  offset: 0, 0
+  index: -1
+咸鱼炮弹2
+  rotate: true
+  xy: 2, 71
+  size: 85, 253
+  orig: 85, 253
+  offset: 0, 0
+  index: -1
