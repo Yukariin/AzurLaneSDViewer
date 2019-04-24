@@ -1,0 +1,48 @@
+
+zibao_kizuna.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ji
+  rotate: false
+  xy: 2, 58
+  size: 180, 149
+  orig: 180, 149
+  offset: 0, 0
+  index: -1
+zd01
+  rotate: false
+  xy: 2, 2
+  size: 179, 54
+  orig: 179, 54
+  offset: 0, 0
+  index: -1
+zd02
+  rotate: false
+  xy: 184, 153
+  size: 179, 54
+  orig: 179, 54
+  offset: 0, 0
+  index: -1
+zd03
+  rotate: false
+  xy: 184, 97
+  size: 179, 54
+  orig: 179, 54
+  offset: 0, 0
+  index: -1
+zhadan_1
+  rotate: false
+  xy: 365, 137
+  size: 117, 70
+  orig: 117, 70
+  offset: 0, 0
+  index: -1
+zhadan_2
+  rotate: false
+  xy: 365, 69
+  size: 112, 66
+  orig: 112, 66
+  offset: 0, 0
+  index: -1

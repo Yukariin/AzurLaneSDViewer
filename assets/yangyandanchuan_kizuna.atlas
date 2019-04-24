@@ -1,0 +1,41 @@
+
+yangyandanchuan_kizuna.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 286, 176
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 286, 108
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 570, 176
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 52
+  size: 282, 190
+  orig: 282, 190
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 2, 2
+  size: 48, 67
+  orig: 48, 67
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+miaogaodanchuan_kizuna.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 178
+  size: 450, 254
+  orig: 450, 254
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 454, 275
+  size: 79, 69
+  orig: 79, 69
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: false
+  xy: 2, 90
+  size: 449, 86
+  orig: 449, 86
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: false
+  xy: 454, 346
+  size: 449, 86
+  orig: 449, 86
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: false
+  xy: 2, 2
+  size: 449, 86
+  orig: 449, 86
+  offset: 0, 0
+  index: -1

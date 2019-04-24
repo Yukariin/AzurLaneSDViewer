@@ -1,0 +1,41 @@
+
+fusangdanchuan_kizuna.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 194
+  size: 453, 263
+  orig: 453, 263
+  offset: 0, 0
+  index: -1
+weapon_L
+  rotate: false
+  xy: 457, 295
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+zl01
+  rotate: false
+  xy: 2, 98
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1
+zl02
+  rotate: false
+  xy: 457, 363
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1
+zl03
+  rotate: false
+  xy: 2, 2
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1
