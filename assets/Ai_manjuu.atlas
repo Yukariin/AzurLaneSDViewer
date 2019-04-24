@@ -1,0 +1,41 @@
+
+Ai_manjuu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+han1
+  rotate: false
+  xy: 325, 186
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+han2
+  rotate: false
+  xy: 2, 2
+  size: 97, 54
+  orig: 97, 54
+  offset: 0, 0
+  index: -1
+hand_Lpart
+  rotate: true
+  xy: 325, 223
+  size: 168, 353
+  orig: 168, 353
+  offset: 0, 0
+  index: -1
+ji
+  rotate: true
+  xy: 680, 155
+  size: 236, 261
+  orig: 236, 261
+  offset: 0, 0
+  index: -1
+light_B
+  rotate: false
+  xy: 2, 58
+  size: 321, 333
+  orig: 321, 333
+  offset: 0, 0
+  index: -1
