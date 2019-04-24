@@ -1,11 +1,11 @@
 var charData = {
     "Ai_manjuu": "Ai_manjuu",
     "ai_manjuuu": "ai_manjuuu",
-    "aijiangBB": "aijiangBB",
-    "aijiangCL": "aijiangCL",
-    "aijiangCV": "aijiangCV",
-    "aijiangDD": "aijiangDD",
-    "aijiangDD_2": "aijiangDD_2",
+    "Kizuna AI (BB)": "aijiangBB",
+    "Kizuna AI (CL)": "aijiangCL",
+    "Kizuna AI (CV)": "aijiangCV",
+    "Kizuna AI (DD)": "aijiangDD",
+    "Kizuna AI (DD)_2": "aijiangDD_2",
     "Saratoga_4": "salatuojia_4",
     
     "Javelin_4": "biaoqiang_4",
