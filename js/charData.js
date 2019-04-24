@@ -1,4 +1,23 @@
 var charData = {
+    "Ai_manjuu": "Ai_manjuu",
+    "ai_manjuuu": "ai_manjuuu",
+    "aijiangBB": "aijiangBB",
+    "aijiangCL": "aijiangCL",
+    "aijiangCV": "aijiangCV",
+    "aijiangDD": "aijiangDD",
+    "aijiangDD_2": "aijiangDD_2",
+    "Saratoga_4": "salatuojia_4",
+    
+    "Javelin_4": "biaoqiang_4",
+    "Laffey_5": "lafei_5",
+    "Ayanami_6": "lingbo_6",
+    "Z23_4": "z23_4",
+    
+    "Kisaragi Kai": "ruyue_g",
+    
+    "Hiei-chan": "birui_younv",
+    "Akagi-chan": "chicheng_younv",
+    
     "Kitakaze": "beifeng",
     "Friedrich der Grosse": "feiteliedadi",
     "Gascogne": "jiasikenie",
@@ -709,4 +728,9 @@ var charData = {
     "zhongguojie": "zhongguojie",
     "zibaochuan": "zibaochuan",
     "zuishangdanchuan2": "zuishangdanchuan2",
+    
+    "fusangdanchuan_kizuna": "fusangdanchuan_kizuna",
+    "miaogaodanchuan_kizuna": "miaogaodanchuan_kizuna",
+    "yangyandanchuan_kizuna": "yangyandanchuan_kizuna",
+    "zibao_kizuna": "zibao_kizuna",
 };
