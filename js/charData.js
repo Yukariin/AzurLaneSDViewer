@@ -14,9 +14,12 @@ var charData = {
     "Z23_4": "z23_4",
     
     "Kisaragi Kai": "ruyue_g",
+
+    "An Shan_2": "anshan_2",
     
     "Hiei-chan": "birui_younv",
     "Akagi-chan": "chicheng_younv",
+    "Zeppelin-chan": "qibolin_younv",
     
     "Kitakaze": "beifeng",
     "Friedrich der Grosse": "feiteliedadi",
