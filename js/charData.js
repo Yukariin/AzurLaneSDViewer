@@ -203,6 +203,7 @@ var charData = {
     "Foxhound": "huti",
     "Fu Shun": "fushun",
     "Fubuki": "chuixue",
+    "Fubuki_2": "chuixue_2",
     "Fubuki_3": "chuixue_3",
     "Fubuki_4": "chuixue_4",
     "Fumiruiru": "fumilulu",
