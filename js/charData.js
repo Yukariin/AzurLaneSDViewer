@@ -1,4 +1,8 @@
 var charData = {
+    "Bush_2": "bushi_2",
+    "Hermes Kai": "jingjishen_g",
+    "Memphis_2": "mengfeisi_2",
+    
     "Ai_manjuu": "Ai_manjuu",
     "ai_manjuuu": "ai_manjuuu",
     "Kizuna AI (BB)": "aijiangBB",
