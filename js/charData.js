@@ -1,5 +1,6 @@
 var charData = {
     "Akashi_4": "mingshi_4",
+    "U-556": "u556",
     
     "Bush_2": "bushi_2",
     "Hermes Kai": "jingjishen_g",
