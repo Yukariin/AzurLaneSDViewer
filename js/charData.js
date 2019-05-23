@@ -1,6 +1,11 @@
 var charData = {
     "Z36": "z36",
     "Koln Kai": "kelong_g",
+    "U-556_2": "U556_2",
+    "U-73": "U73",
+    "U-73_3": "U73_3",
+    "Echo": "huisheng",
+    "King George V": "qiaozhiwushi",
     
     "Akashi_4": "mingshi_4",
     "U-556": "u556",
