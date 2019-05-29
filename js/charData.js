@@ -1,4 +1,6 @@
 var charData = {
+    "San Francisco(?)": "aidahe",
+    
     "Z36": "z36",
     "Koln Kai": "kelong_g",
     "U-556_2": "U556_2",
