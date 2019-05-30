@@ -1,5 +1,5 @@
 var charData = {
-    "Bismarck_2": "bisimai_2"
+    "Bismarck_2": "bisimai_2",
     "Hornet_2": "dahuangfeng_2",
     "Little Helena": "hailunna_younv",
     "Helena": "hailunna_3",
