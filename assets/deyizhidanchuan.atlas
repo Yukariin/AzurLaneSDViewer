@@ -1,0 +1,41 @@
+
+deyizhidanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 65
+  size: 439, 264
+  orig: 439, 264
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 2
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+zx01
+  rotate: false
+  xy: 443, 155
+  size: 449, 86
+  orig: 449, 86
+  offset: 0, 0
+  index: -1
+zx02
+  rotate: false
+  xy: 443, 67
+  size: 449, 86
+  orig: 449, 86
+  offset: 0, 0
+  index: -1
+zx03
+  rotate: false
+  xy: 443, 243
+  size: 449, 86
+  orig: 449, 86
+  offset: 0, 0
+  index: -1

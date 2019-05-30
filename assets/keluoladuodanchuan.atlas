@@ -1,0 +1,48 @@
+
+keluoladuodanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 194
+  size: 490, 267
+  orig: 490, 267
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 405, 130
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 494, 303
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+zl01
+  rotate: false
+  xy: 494, 367
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1
+zl02
+  rotate: false
+  xy: 2, 2
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1
+zl03
+  rotate: false
+  xy: 2, 98
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+beikaluolainadanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 194
+  size: 500, 308
+  orig: 500, 308
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 405, 133
+  size: 90, 59
+  orig: 90, 59
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 504, 347
+  size: 90, 59
+  orig: 90, 59
+  offset: 0, 0
+  index: -1
+zl01
+  rotate: false
+  xy: 504, 408
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1
+zl02
+  rotate: false
+  xy: 2, 2
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1
+zl03
+  rotate: false
+  xy: 2, 98
+  size: 401, 94
+  orig: 401, 94
+  offset: 0, 0
+  index: -1

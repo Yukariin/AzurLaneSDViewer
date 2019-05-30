@@ -1,0 +1,48 @@
+
+Gjidanchuan.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 319, 213
+  orig: 319, 213
+  offset: 0, 0
+  index: -1
+pao
+  rotate: true
+  xy: 323, 34
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+qz01
+  rotate: false
+  xy: 323, 81
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+qz02
+  rotate: false
+  xy: 607, 149
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+qz03
+  rotate: false
+  xy: 323, 149
+  size: 282, 66
+  orig: 282, 66
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 607, 101
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+guanghuidanchuan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 146
+  size: 507, 358
+  orig: 507, 358
+  offset: 0, 0
+  index: -1
+hm01
+  rotate: false
+  xy: 511, 434
+  size: 328, 70
+  orig: 328, 70
+  offset: 0, 0
+  index: -1
+hm02
+  rotate: false
+  xy: 2, 2
+  size: 328, 70
+  orig: 328, 70
+  offset: 0, 0
+  index: -1
+hm03
+  rotate: false
+  xy: 2, 74
+  size: 328, 70
+  orig: 328, 70
+  offset: 0, 0
+  index: -1

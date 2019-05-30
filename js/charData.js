@@ -1,4 +1,18 @@
 var charData = {
+    "Bismarck_2": "bisimai_2"
+    "Hornet_2": "dahuangfeng_2",
+    "Little Helena": "hailunna_younv",
+    "Helena": "hailunna_3",
+    "Ark Royal_3": "huangjiafangzhou_3",
+    "Little Cleveland": "kelifulan_younv",
+    "Little Sandy": "shengdiyage_younv",
+    "Shigure_3": "shiyu_3",
+    "Admiral Graf Spee_4": "sipeibojue_4",
+    "Yuugure_4": "ximu_4",
+    "Yorktown_2": "yuekecheng_2",
+    "Z23_3": "z23_3",
+    "Georgia_2": "zuozhiya_2",
+    
     "San Francisco(?)": "aidahe",
     
     "Z36": "z36",
