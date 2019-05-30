@@ -2,7 +2,7 @@ var charData = {
     "Bismarck_2": "bisimai_2",
     "Hornet_2": "dahuangfeng_2",
     "Little Helena": "hailunna_younv",
-    "Helena": "hailunna_3",
+    "Helena_3": "hailunna_3",
     "Ark Royal_3": "huangjiafangzhou_3",
     "Little Cleveland": "kelifulan_younv",
     "Little Sandy": "shengdiyage_younv",
