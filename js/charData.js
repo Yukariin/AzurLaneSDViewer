@@ -1,4 +1,7 @@
 var charData = {
+    "Z1 Kai": "z1_g",
+    "Leipzig Kai": "laibixi_g",
+    
     "Bismarck_2": "bisimai_2",
     "Hornet_2": "dahuangfeng_2",
     "Little Helena": "hailunna_younv",
@@ -514,9 +517,11 @@ var charData = {
     "Rurutie (UTA)_2": "lulutiye_2",
     "Ryuujou": "longxiang",
     "Ryuujou_2": "longxiang_2",
+    "SRNekoBox1": "SRNekoBox1",
     "SRNekoBox2": "SRNekoBox2",
     "SRNekoBox3": "SRNekoBox3",
     "SRNekoBox4": "SRNekoBox4",
+    "SSRNekoBox1": "SSRNekoBox1",
     "SSRNekoBox2": "SSRNekoBox2",
     "SSRNekoBox3": "SSRNekoBox3",
     "SSRNekoBox4": "SSRNekoBox4",

@@ -1,14 +1,21 @@
 
-NekoBox1.png
+SSRNekoBox1.png
 size: 512,256
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 FX
   rotate: false
-  xy: 269, 45
+  xy: 268, 45
   size: 83, 90
   orig: 83, 90
+  offset: 0, 0
+  index: -1
+SSRxiangzi2
+  rotate: false
+  xy: 2, 17
+  size: 264, 201
+  orig: 264, 201
   offset: 0, 0
   index: -1
 face21
@@ -20,29 +27,22 @@ face21
   index: -1
 face22
   rotate: false
-  xy: 269, 31
+  xy: 268, 31
   size: 14, 12
   orig: 14, 12
   offset: 0, 0
   index: -1
 face23
   rotate: false
-  xy: 354, 125
+  xy: 353, 125
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: -1
 gaizi2
   rotate: false
-  xy: 269, 137
+  xy: 268, 137
   size: 239, 81
   orig: 239, 81
-  offset: 0, 0
-  index: -1
-xiangzi2
-  rotate: false
-  xy: 2, 17
-  size: 265, 201
-  orig: 265, 201
   offset: 0, 0
   index: -1
