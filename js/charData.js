@@ -1,4 +1,14 @@
 var charData = {
+    "Curlew Kai": "biaoyu_g",
+    "Fiji_2": "feiji_2",
+    "Curacoa Kai": "kulasuo_g",
+    "Southampton": "nananpudun",
+    "Swiftsure": "quejie",
+    "Swiftsure_2": "quejie_2",
+    "Sirius_3": "tianlangxing_3",
+    "Matchless_2": "wudi_2",
+    "Chaser_3": "zhuiganzhe_3",
+    
     "Z1 Kai": "z1_g",
     "Leipzig Kai": "laibixi_g",
     
